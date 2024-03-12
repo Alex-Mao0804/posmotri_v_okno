@@ -56,7 +56,7 @@ ol {
   position: relative;
   height: 298px;
   padding: 2px;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .content__details {
